@@ -55,3 +55,5 @@ ________________________________________
 * Alumni dapat memberikan kesan dan pesan selama bersekolah.
 * Testimoni disimpan untuk divalidasi oleh admin sebelum ditampilkan ke publik.
 ________________________________________
+## Video Dokumentasi
+Video Dokumentasi bisa dilihat di [Youtube](https://youtu.be/JjfQBPKJal4)
